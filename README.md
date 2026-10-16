@@ -28,5 +28,5 @@ Built an MSP430-based greenhouse automation system using temperature, humidity, 
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/ayaanfarooq/](https://www.linkedin.com/in/ayaanf/
+LinkedIn: https://www.linkedin.com/in/ayaanf/
 
